@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp8/Practice1_ProcessManager.csproj" />
+  <Project Path="Practice1_ThreadOrders/Practice1_ThreadOrders.csproj" Id="a1df4470-faf3-44ea-b058-4cbd8a447362" />
   <Project Path="Practice2_ProcessOutput/Practice2_ProcessOutput.csproj" />
+  <Project Path="Practice2_SharedCounter/Practice2_SharedCounter.csproj" Id="c612502a-b6e4-4699-be85-941b67fb4c45" />
 </Solution>
